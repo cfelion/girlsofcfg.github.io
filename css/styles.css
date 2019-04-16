@@ -1,0 +1,49 @@
+/*Backgound style*/
+body {
+  background-image: url(../images/getty-girls-code2-bw.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+}
+
+/*Girls' Avatar Image styling*/
+.img-fluid {
+  display: flex;
+  width: 20vw;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 190px;
+}
+.img-thumbnail {
+  display: flex;
+  width: 20vw;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 190px;
+}
+.div-margins {
+  padding: 30px;
+}
+#girl-avatars p{
+   text-align-last:center;
+   color: white;
+   mix-blend-mode: difference;
+   font-size: 2em;
+}
+
+/*Girls' Personal Pages styling*/
+#girl-info p{
+   text-align-last:center;
+   color: white;
+   mix-blend-mode: difference;
+}
+#girl-info h2{
+   text-align-last:center;
+   color: white;
+   mix-blend-mode: difference;
+}
+#girl-header h1{;
+   color: white;
+   mix-blend-mode: difference;
+}
